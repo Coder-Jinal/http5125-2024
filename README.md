@@ -1,3 +1,3 @@
 # http5125-2024
 File from HTTP5125 course.
-New Changes added from VS Code.
+The content of HTTP5125 will be posted here.
