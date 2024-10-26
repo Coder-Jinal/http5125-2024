@@ -1,3 +1,6 @@
-# http5125-2024
-File from HTTP5125 course.
-The content of HTTP5125 will be posted here.
+# Back-End Web Development 1
+Course Code: HTTP 5125
+
+Academic Year: 2025-2026
+
+In this course, students are introduced to server-side web development with the C# programming language, and will implement techniques for creating data-driven websites drawing from various external data sources.
