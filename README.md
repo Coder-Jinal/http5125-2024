@@ -13,4 +13,4 @@ https://www.geeksforgeeks.org/backend-development/
 
 ![Mymi pics](Backend-Development-ezgif.com-webp-to-jpg-converter.jpg).
 
-> **Note**: Make sure to check out other helpful resources as you progress through the course to stay updated with back-end development best practices.
+> **Note**:This repository focuses on server-side functionality using C#. For those new to back-end development, it’s recommended to have a foundational understanding of databases and APIs, as these concepts are essential for creating dynamic, data-driven applications.
