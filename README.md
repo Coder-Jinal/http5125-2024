@@ -12,3 +12,5 @@ https://www.geeksforgeeks.org/backend-development/
 # Images
 
 ![Mymi pics](Backend-Development-ezgif.com-webp-to-jpg-converter.jpg).
+
+> **Note**: Make sure to check out other helpful resources as you progress through the course to stay updated with back-end development best practices.
